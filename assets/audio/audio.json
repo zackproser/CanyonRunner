@@ -1,0 +1,95 @@
+{
+  "resources": [
+    "audio.ogg",
+    "audio.m4a",
+    "audio.mp3",
+    "audio.ac3"
+  ],
+  "spritemap": {
+    "3rdBallad": {
+      "start": 0,
+      "end": 39.18222222222222,
+      "loop": true
+    },
+    "AngryMod": {
+      "start": 41,
+      "end": 99.79292517006803,
+      "loop": true
+    },
+    "Ariely": {
+      "start": 101,
+      "end": 132.64009070294784,
+      "loop": true
+    },
+    "angel": {
+      "start": 134,
+      "end": 140.53786848072562,
+      "loop": true
+    },
+    "aronara": {
+      "start": 142,
+      "end": 202.12081632653062,
+      "loop": true
+    },
+    "crash": {
+      "start": 204,
+      "end": 205.94902494331066,
+      "loop": false
+    },
+    "explosion": {
+      "start": 207,
+      "end": 221.7374149659864,
+      "loop": false
+    },
+    "heal": {
+      "start": 223,
+      "end": 226.0316553287982,
+      "loop": false
+    },
+    "launch": {
+      "start": 228,
+      "end": 232.39873015873016,
+      "loop": false
+    },
+    "missile-lock": {
+      "start": 234,
+      "end": 238.99954648526077,
+      "loop": false
+    },
+    "missile-reload": {
+      "start": 240,
+      "end": 241.27274376417233,
+      "loop": false
+    },
+    "negative": {
+      "start": 243,
+      "end": 243.68643990929706,
+      "loop": false
+    },
+    "rocket-start": {
+      "start": 245,
+      "end": 247.20734693877552,
+      "loop": false
+    },
+    "sonar-found": {
+      "start": 249,
+      "end": 252.10131519274375,
+      "loop": false
+    },
+    "sonar": {
+      "start": 254,
+      "end": 260.26213151927436,
+      "loop": true
+    },
+    "success": {
+      "start": 262,
+      "end": 308.4660317460317,
+      "loop": true
+    },
+    "swoosh": {
+      "start": 310,
+      "end": 311.2408163265306,
+      "loop": false
+    }
+  }
+}
